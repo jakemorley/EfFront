@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  bookprice: 9.99
+  marketprice: 9.99
+  sigma: 9.99
+
+two:
+  name: MyString
+  bookprice: 9.99
+  marketprice: 9.99
+  sigma: 9.99
